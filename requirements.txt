@@ -1,0 +1,5 @@
+Flask
+SpeechRecognition
+pyttsx3
+pyaudio
+googletrans==4.0.0-rc1
