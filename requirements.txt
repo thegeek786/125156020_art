@@ -1,6 +1,5 @@
 Flask
 SpeechRecognition
 pyttsx3
-brew install portaudio
-pyaudio
+
 googletrans==4.0.0-rc1
